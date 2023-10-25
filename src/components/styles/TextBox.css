@@ -1,0 +1,19 @@
+.textbox{
+    padding-top: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 7%;
+}
+
+.heading-text{
+    color: #4B350F;
+    font-family: 'DM Serif Display', serif;
+    letter-spacing: 1px;
+    font-size: 60px;
+}
+
+.content-text{
+    color: #5F4314;
+    font-family: 'DM Serif Display', serif;
+    letter-spacing: 1px;
+}

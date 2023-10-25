@@ -1,0 +1,32 @@
+.artifact-container {
+    position: relative;
+}
+
+.artifact-image {
+    padding-top: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 7%;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+.artifact-name {
+    font-size: 25px;
+    font-family: 'DM Serif Display', serif;
+}
+
+.artifact-description {
+    margin: 12%;
+    position: absolute;
+    top: 45%;
+    left: 0;
+    background-color: rgba(255, 255, 255, 0.7);
+    color: black;
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 1px;
+    font-size: 10px;
+    padding: 20px;
+    text-align: center;
+}

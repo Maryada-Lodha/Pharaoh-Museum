@@ -1,0 +1,98 @@
+.event-container {
+    position: relative;
+}
+
+.event-image {
+    padding-top: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 7%;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+.event-name {
+    font-family: 'DM Serif Display', serif;
+}
+
+.event-description {
+    margin: 10%;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    background-color: rgba(255, 255, 255, 0.7);
+    color: black;
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 1px;
+    font-size: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+
+.card-body {
+    position: absolute;
+    top: 10.5%;
+    left: 6.5%;
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 87%;
+    height: auto;
+    overflow: hidden;
+    visibility: hidden;
+}
+
+
+.overlay-event-date{
+    margin-top: 6%;
+    margin-left: 42%;
+    text-align: center;
+    color: white;
+    padding: 1.5%;
+    background-color: #FFA200;
+    width: 15%;
+    font-size: large;
+    font-family: 'Rakkas', cursive;
+}
+
+.overlay-event-description,
+.overlay-event-time {
+    color: white;
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 1px;
+    font-size: 14px;
+    padding: 20px;
+    text-align: center;
+}
+
+.overlay-event-time{
+    font-size: 18px;
+}
+
+.overlay-event-name{
+    color: #FFA200;
+    font-family: 'DM Serif Display', serif;
+}
+
+.fa-clock{
+    margin-left: 47%;
+    color: #FFA200;
+}
+
+.btn-book{
+    border-radius: 0;
+    margin-left: 37.5%;
+    margin-bottom: 6%;
+    text-align: center;
+    color: white;
+    padding: 1.5%;
+    background-color: #FFA200;
+    width: 25%;
+    font-size: large;
+    font-family: 'Rakkas', cursive;   
+}
+
+
+.event-container:hover .card-body{
+    visibility: visible;
+}

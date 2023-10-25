@@ -1,0 +1,12 @@
+.navigations{
+    padding-left: 850px;
+}
+
+.nav-link{
+    color: white;
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 1.5px;
+    font-size: small;
+    align-items: center;
+    margin-right: 7px;
+}

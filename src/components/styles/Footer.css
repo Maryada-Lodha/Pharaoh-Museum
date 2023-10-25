@@ -1,0 +1,62 @@
+.Footer{
+    background-image: url("/src/assets/images/footer-img.png");
+}
+
+.column{
+    padding-top: 100px;
+}
+
+.footer-logo-img{
+    height: 50px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.footer-description{
+    padding-right: 25px;
+    padding-bottom: 20px;
+    color: white;
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 1px;
+}
+
+.sitemap-text{
+    padding-bottom: 15px;
+    color: #FFA200;
+    font-family: 'DM Serif Display', serif;
+    font-weight: 10;
+    font-size: 27px;
+    letter-spacing: 2.5px;
+}
+
+.sitemap-components{
+    color: white;
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 1.5px;
+}
+
+.inputfield{
+    margin-top: 35px;
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 1px;
+    border-radius: 0;
+    width: 400px;
+}
+
+.btn-subscribe{
+    margin-top: 15px;
+    background-color: #FFA200;
+    color: white;
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+    border-radius: 0;
+}
+
+.copyright{
+    padding: 50px;
+    font-size: medium;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    color: white;
+}
