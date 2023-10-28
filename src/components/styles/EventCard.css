@@ -96,3 +96,43 @@
 .event-container:hover .card-body{
     visibility: visible;
 }
+
+
+.btn-book-modal{
+    border-radius: 0;
+    margin-left: 10%;
+    margin-bottom: 6%;
+    text-align: center;
+    color: white;
+    padding: 1.5%;
+    background-color: #FFA200;
+    width: 25%;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: 'Rakkas', cursive; 
+}
+
+.modal-title{
+    color: #FFA200;
+    font-family: 'DM Serif Display', serif;
+    letter-spacing: 1px;
+    margin-left: 6%;
+}
+
+.book-form-inputfield-sm{
+    font-family: 'Playfair Display', serif;
+    margin-left: 7.5%;
+    margin-top: 3%;
+    letter-spacing: 1px;
+    border-radius: 0;
+    width: 180px;
+}
+
+.book-form-inputfield-lg{
+    font-family: 'Playfair Display', serif;
+    margin-left: 7.5%;
+    margin-top: 3%;
+    letter-spacing: 1px;
+    border-radius: 0;
+    width: 395px;
+}

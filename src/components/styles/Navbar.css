@@ -10,3 +10,39 @@
     align-items: center;
     margin-right: 7px;
 }
+
+.nav-link-yellow{
+    color: #FFA200;
+    font-family: 'DM Serif Display', serif;
+    letter-spacing: 1.5px;
+    font-size: small;
+    align-items: center;
+    margin-right: 7px;
+}
+
+.subtext{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    letter-spacing: 1px;
+    font-family: 'Playfair Display', serif;
+}
+
+.spantext{
+    color: #FFA200;
+}
+
+.btn-modal{
+    border-radius: 0;
+    margin-left: 35%;
+    margin-bottom: 6%;
+    text-align: center;
+    color: white;
+    padding: 1.5%;
+    background-color: #FFA200;
+    width: 25%;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: 'Rakkas', cursive;
+}
